@@ -1,2 +1,2 @@
 # distil--effects-scaling-attention
-[WIP} Distill article on the effects of scaling Attention on learning
+[WIP] Distill article on the effects of scaling Attention on learning
